@@ -1,5 +1,11 @@
 # Vim Tricks
 ## Vimgrep: search in files for vim
-Usage:`vimgrep/pattern/ {files}`{.ruby}
+```vim
+:vimgrep/pattern/ {files}
+```
+## Paste from clipboard into vim
+```vim
+:set paste!
+```
 
 
